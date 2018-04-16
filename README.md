@@ -3,3 +3,4 @@ If organization doesnt want to provide access to aws console then you can use su
 I have used environmental variables for bucket name , aws access key and secret key.
 You need to create one IAM role with programmatic access and bucket access.
 
+I have hard coded folder names from bucket, you can change that.
