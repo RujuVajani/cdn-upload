@@ -17,7 +17,7 @@
             <td>
                 <select name="prefix" id="prefix" onchange="getPrefix();" required>
                     <option value="banners">Banners</option>
-                    <option value="recipes">Recipes</option>
+                    <option value="mobile-recipes">Recipes</option>
                     <option value="charities">Charities</option>
                     <option value="categories">Categories</option>
                     <option value="articles">Articles</option>
