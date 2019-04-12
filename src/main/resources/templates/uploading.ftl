@@ -22,6 +22,9 @@
                     <option value="categories">Categories</option>
                     <option value="articles">Articles</option>
                     <option value="products">Products</option>
+                    <option value="mobile/smartswitchoffers">Mobile-Smartswitch</option>
+                    <option value="OS_Marketing/SwitchForRewards/images">SwitchForRewards</option>
+                    <option value="bill-payment-vendors">BillPaymentsVendors</option>
                 </select>
             </td>
         </tr>
